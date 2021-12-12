@@ -77,6 +77,10 @@ def get_basic_chord_from_major_scale(scale_root_note, chord_degree, chord_note_c
 
     return chord_notes 
 
+
+
+
+
 if __name__ == "__main__":
 
 
