@@ -1,4 +1,3 @@
-import itertools
 # list of available notes in western music 
 
 # at first lets determine available notes 
